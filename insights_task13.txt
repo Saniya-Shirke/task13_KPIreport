@@ -1,0 +1,23 @@
+Task 13 – BI Dashboard Storytelling
+
+Tool Used: Power BI Desktop
+Dataset: Global Superstore
+
+KPIs Created:
+- Total Sales
+- Total Profit
+- Profit Margin
+
+Visuals Included:
+- Sales Trend (Line Chart)
+- Sales by Category (Bar Chart)
+- Region Performance (Bar Chart)
+- Top 10 Products Table
+- Slicers (Region, Category, Order Date)
+
+Key Business Insights:
+1. Technology category generates highest revenue.
+2. West region contributes maximum sales.
+3. Overall profit margin is around 11–12%.
+
+This dashboard provides an executive summary of retail performance.
